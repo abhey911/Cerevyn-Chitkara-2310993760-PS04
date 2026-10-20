@@ -1,0 +1,152 @@
+[
+  {
+    "ticket_id": "S001",
+    "message": "I was charged twice for my monthly subscription",
+    "label": "Billing"
+  },
+  {
+    "ticket_id": "S002",
+    "message": "Please send a copy of my invoice",
+    "label": "Billing"
+  },
+  {
+    "ticket_id": "S003",
+    "message": "I need a refund for the last payment",
+    "label": "Billing"
+  },
+  {
+    "ticket_id": "S004",
+    "message": "The price on my bill is incorrect",
+    "label": "Billing"
+  },
+  {
+    "ticket_id": "S005",
+    "message": "My card payment failed",
+    "label": "Billing"
+  },
+  {
+    "ticket_id": "S006",
+    "message": "I cannot log in to my account",
+    "label": "Access"
+  },
+  {
+    "ticket_id": "S007",
+    "message": "Please reset my password",
+    "label": "Access"
+  },
+  {
+    "ticket_id": "S008",
+    "message": "My account is locked and I need access",
+    "label": "Access"
+  },
+  {
+    "ticket_id": "S009",
+    "message": "I cannot sign in with two factor authentication",
+    "label": "Access"
+  },
+  {
+    "ticket_id": "S010",
+    "message": "I lost access to my profile",
+    "label": "Access"
+  },
+  {
+    "ticket_id": "S011",
+    "message": "The application crashes when I open reports",
+    "label": "Technical"
+  },
+  {
+    "ticket_id": "S012",
+    "message": "The server is slow today",
+    "label": "Technical"
+  },
+  {
+    "ticket_id": "S013",
+    "message": "I found a bug on the dashboard",
+    "label": "Technical"
+  },
+  {
+    "ticket_id": "S014",
+    "message": "The export feature is not working",
+    "label": "Technical"
+  },
+  {
+    "ticket_id": "S015",
+    "message": "I receive an error when saving changes",
+    "label": "Technical"
+  },
+  {
+    "ticket_id": "S016",
+    "message": "How can I update my contact preferences",
+    "label": "General"
+  },
+  {
+    "ticket_id": "S017",
+    "message": "I have a question about your service",
+    "label": "General"
+  },
+  {
+    "ticket_id": "S018",
+    "message": "Where can I find product documentation",
+    "label": "General"
+  },
+  {
+    "ticket_id": "S019",
+    "message": "Please explain the available account features",
+    "label": "General"
+  },
+  {
+    "ticket_id": "S020",
+    "message": "I would like information about your business hours",
+    "label": "General"
+  },
+  {
+    "ticket_id": "S021",
+    "message": "My invoice total is wrong",
+    "label": "Billing"
+  },
+  {
+    "ticket_id": "S022",
+    "message": "I was charged for a cancelled plan",
+    "label": "Billing"
+  },
+  {
+    "ticket_id": "S023",
+    "message": "My payment is still pending",
+    "label": "Billing"
+  },
+  {
+    "ticket_id": "S024",
+    "message": "I forgot my password and cannot sign in",
+    "label": "Access"
+  },
+  {
+    "ticket_id": "S025",
+    "message": "Login gives me an error every time",
+    "label": "Access"
+  },
+  {
+    "ticket_id": "S026",
+    "message": "The website has a bug and keeps crashing",
+    "label": "Technical"
+  },
+  {
+    "ticket_id": "S027",
+    "message": "The API request failed with a server error",
+    "label": "Technical"
+  },
+  {
+    "ticket_id": "S028",
+    "message": "Can I change my notification settings",
+    "label": "General"
+  },
+  {
+    "ticket_id": "S029",
+    "message": "URGENT production down for all users",
+    "label": "Technical"
+  },
+  {
+    "ticket_id": "S030",
+    "message": "Please help me understand your service options",
+    "label": "General"
+  }
+]
